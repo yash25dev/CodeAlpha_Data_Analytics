@@ -1,0 +1,31 @@
+review,positive_score,negative_score,neutral_score,compound_score,sentiment
+This product is amazing and works perfectly,0.615,0.0,0.385,0.8402,Positive
+"Excellent quality, I really love it",0.672,0.0,0.328,0.8479,Positive
+Very happy with this purchase,0.5,0.0,0.5,0.6115,Positive
+Fast delivery and great product,0.506,0.0,0.494,0.6249,Positive
+"Absolutely wonderful, highly recommended",0.76,0.0,0.24,0.7468,Positive
+The product is good and easy to use,0.492,0.0,0.508,0.7003,Positive
+Fantastic value for money,0.75,0.0,0.25,0.7184,Positive
+I am satisfied with the quality,0.359,0.0,0.641,0.4215,Positive
+Works well and looks beautiful,0.667,0.0,0.333,0.7184,Positive
+"Great experience, I would buy again",0.451,0.0,0.549,0.6249,Positive
+The product is okay,0.388,0.0,0.612,0.2263,Positive
+"Average quality, nothing special",0.0,0.429,0.571,-0.3089,Negative
+It works as expected,0.0,0.0,1.0,0.0,Neutral
+Delivery was normal,0.0,0.0,1.0,0.0,Neutral
+"Not bad, but not impressive",0.227,0.419,0.354,-0.3875,Negative
+The product is acceptable,0.434,0.0,0.566,0.3182,Positive
+Quality is neither good nor bad,0.0,0.544,0.456,-0.5824,Negative
+It does the basic job,0.0,0.0,1.0,0.0,Neutral
+An ordinary product for the price,0.0,0.0,1.0,0.0,Neutral
+Nothing special about this item,0.0,0.361,0.639,-0.3089,Negative
+This product is terrible,0.0,0.508,0.492,-0.4767,Negative
+Very poor quality and disappointing,0.0,0.687,0.313,-0.7645,Negative
+I hate this product,0.0,0.552,0.448,-0.5719,Negative
+Completely useless and a waste of money,0.0,0.541,0.459,-0.7089,Negative
+Very bad experience,0.0,0.655,0.345,-0.5849,Negative
+The item broke after one day,0.0,0.359,0.641,-0.4215,Negative
+"Poor quality, not worth buying",0.0,0.614,0.386,-0.5812,Negative
+Delivery was late and the product was damaged,0.0,0.293,0.707,-0.4404,Negative
+I am unhappy with this purchase,0.0,0.359,0.641,-0.4215,Negative
+"Awful product, I do not recommend it",0.0,0.505,0.495,-0.6261,Negative

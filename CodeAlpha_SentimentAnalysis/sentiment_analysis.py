@@ -12,7 +12,12 @@ from vaderSentiment.vaderSentiment import SentimentIntensityAnalyzer
 os.makedirs("graphs", exist_ok=True)
 
 # Load reviews
-df = pd.read_csv("reviews.csv")
+
+
+BASE_DIR = os.path.dirname(os.path.abspath(__file__))
+csv_path = os.path.join(BASE_DIR, "reviews.csv")
+
+df = pd.read_csv(csv_path)
 
 # Check input data
 if "review" not in df.columns:
